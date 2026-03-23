@@ -3,21 +3,5 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "vite",
-  "outputDirectory": "dist",
-  "env": {
-    "NODE_ENV": "production"
-  },
-  "regions": ["iad1"],
-  "functions": {
-    "api/**/*.js": {
-      "memory": 1024,
-      "maxDuration": 60
-    }
-  },
-  "public": false,
-  "github": {
-    "enabled": true,
-    "autoAlias": true,
-    "autoJobCancelPreviousOnPush": true
-  }
+  "outputDirectory": "dist"
 }
