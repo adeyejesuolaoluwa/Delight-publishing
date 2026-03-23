@@ -1,0 +1,34 @@
+{
+  "name": "delight-publishing-website",
+  "version": "2.0.0",
+  "description": "Premium publishing house website with modular architecture",
+  "author": "Delight Publishing House",
+  "license": "proprietary",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint:css": "stylelint \"css/**/*.css\"",
+    "lint:js": "eslint \"js/**/*.js\"",
+    "format": "prettier --write \"**/*.{html,css,js,json}\"",
+    "format:check": "prettier --check \"**/*.{html,css,js,json}\""
+  },
+  "keywords": [
+    "publishing",
+    "book-publishing",
+    "editing",
+    "formatting",
+    "indie-publishing"
+  ],
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "eslint": "^8.54.0",
+    "eslint-config-standard": "^17.1.0",
+    "prettier": "^3.1.0",
+    "stylelint": "^15.10.0",
+    "stylelint-config-standard": "^34.0.0",
+    "terser": "^5.46.1",
+    "vite": "^5.0.0"
+  }
+}
