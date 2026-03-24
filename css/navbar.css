@@ -1,22 +1,33 @@
-/* Navbar Container */
+/* ============================================================================
+   NAVBAR - PREMIUM STICKY NAVIGATION
+   ================================================================ = */
+
 .navbar {
     position: sticky;
     top: 0;
     z-index: var(--z-sticky);
-    background-color: rgba(250, 250, 248, 0.92);
+    background: rgba(250, 251, 252, 0.92);
     backdrop-filter: blur(20px);
-    border-bottom: 1px solid var(--color-border);
-    padding: 16px var(--spacing-2xl);
-    transition: all var(--transition-fast);
+    border-bottom: 1px solid rgba(26, 95, 78, 0.08);
+    padding: 14px var(--spacing-2xl);
+    transition: all var(--transition-normal);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
 }
 
 .navbar:has(.hamburger.active) {
     backdrop-filter: blur(30px);
+    border-bottom-color: rgba(26, 95, 78, 0.15);
+}
+
+.navbar.scrolled {
+    background: rgba(250, 251, 252, 0.95);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    padding: 12px var(--spacing-2xl);
 }
 
 @media (max-width: 640px) {
     .navbar {
-        padding: var(--spacing-md);
+        padding: var(--spacing-md) var(--spacing-lg);
     }
 }
 
@@ -26,43 +37,65 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: var(--spacing-xl);
 }
 
-/* Logo */
+/* ============================================================================
+   LOGO - BRAND IDENTITY
+   ================================================================ = */
+
 .logo {
     display: flex;
     flex-direction: column;
     text-decoration: none;
     gap: 2px;
     transition: all var(--transition-fast);
+    padding: var(--spacing-sm) 0;
 }
 
 .logo-text {
     font-family: var(--font-serif);
-    font-size: 26px;
+    font-size: 28px;
     font-weight: 700;
-    color: var(--color-primary-green);
+    color: var(--color-primary-main);
     line-height: 1;
     letter-spacing: -0.02em;
+    transition: color var(--transition-fast);
 }
 
 .logo-subtext {
     font-size: 10px;
-    letter-spacing: 2.5px;
-    color: var(--color-text-secondary);
+    letter-spacing: 2px;
+    color: var(--color-text-tertiary);
     font-weight: 600;
     text-transform: uppercase;
+    transition: color var(--transition-fast);
 }
 
 .logo:hover .logo-text {
-    color: var(--color-accent-orange);
+    color: var(--color-accent-coral);
 }
 
-/* Navigation Menu */
+.logo:hover .logo-subtext {
+    color: var(--color-accent-gold);
+}
+
+.logo:focus-visible {
+    outline: 2px solid var(--color-accent-coral);
+    outline-offset: 2px;
+    border-radius: var(--radius-md);
+}
+
+/* ============================================================================
+   NAVIGATION MENU
+   ================================================================ = */
+
 .nav-menu {
     display: flex;
     align-items: center;
     gap: var(--spacing-2xl);
+    flex: 1;
+    justify-content: center;
 }
 
 .nav-link {
@@ -70,62 +103,90 @@
     transition: color var(--transition-fast);
     font-weight: 500;
     font-size: var(--font-size-small);
-    color: var(--color-text-dark);
+    color: var(--color-text-primary);
     text-decoration: none;
     letter-spacing: 0.3px;
+    padding: var(--spacing-md) 0;
 }
 
 .nav-link::after {
     content: '';
     position: absolute;
-    bottom: -8px;
+    bottom: -2px;
     left: 0;
     width: 0;
     height: 2px;
-    background: linear-gradient(90deg, var(--color-accent-orange) 0%, rgba(255, 122, 0, 0.4) 100%);
+    background: linear-gradient(90deg, var(--color-accent-coral), var(--color-accent-gold));
     transition: width var(--transition-normal);
+}
+
+.nav-link:hover {
+    color: var(--color-accent-coral);
 }
 
 .nav-link:hover::after {
     width: 100%;
 }
 
-.nav-link:hover {
-    color: var(--color-accent-orange);
+.nav-link:focus-visible {
+    outline: 2px solid var(--color-accent-coral);
+    outline-offset: 2px;
 }
 
-/* Hamburger Menu */
+/* ============================================================================
+   CTA BUTTON IN NAVBAR
+   ================================================================ = */
+
+.navbar-cta {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
+.navbar-cta .btn {
+    padding: 12px 24px;
+    font-size: var(--font-size-small);
+}
+
+/* ============================================================================
+   HAMBURGER MENU - MOBILE NAVIGATION TOGGLE
+   ================================================================ = */
+
 .hamburger {
     display: none;
     background: none;
     border: none;
     cursor: pointer;
-    font-size: 24px;
-    color: var(--color-primary-green);
-    padding: 0;
-    transition: color var(--transition-normal);
+    padding: var(--spacing-md);
+    transition: all var(--transition-normal);
     flex-direction: column;
     gap: 6px;
+    position: relative;
+    z-index: 1001;
 }
 
 .hamburger:hover {
-    color: var(--color-accent-orange);
+    opacity: 0.7;
 }
 
-.hamburger.active {
-    color: var(--color-white);
+.hamburger:focus-visible {
+    outline: 2px solid var(--color-accent-coral);
+    outline-offset: 2px;
+    border-radius: var(--radius-md);
 }
 
 .hamburger span {
     width: 24px;
-    height: 2px;
-    background-color: currentColor;
+    height: 2.5px;
+    background-color: var(--color-primary-main);
     transition: all var(--transition-normal);
     transform-origin: center;
+    border-radius: 2px;
 }
 
 .hamburger.active span:nth-child(1) {
-    transform: translateY(10px) rotate(45deg);
+    transform: translateY(11px) rotate(45deg);
+    background-color: var(--color-white);
 }
 
 .hamburger.active span:nth-child(2) {
@@ -133,65 +194,87 @@
 }
 
 .hamburger.active span:nth-child(3) {
-    transform: translateY(-10px) rotate(-45deg);
+    transform: translateY(-11px) rotate(-45deg);
+    background-color: var(--color-white);
 }
 
-/* Mobile Menu */
+/* ============================================================================
+   MOBILE MENU - OFFCANVAS NAVIGATION
+   ================================================================ = */
+
 .mobile-menu {
     position: fixed;
     top: 0;
     right: -100%;
     width: 100%;
-    max-width: 400px;
+    max-width: 380px;
     height: 100vh;
-    background-color: var(--color-primary-green);
-    z-index: var(--z-modal);
+    background: var(--gradient-primary);
+    z-index: 1000;
     transition: right var(--transition-normal);
     padding: var(--spacing-2xl);
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    gap: var(--spacing-2xl);
+    gap: var(--spacing-xl);
     overflow-y: auto;
+    box-shadow: -10px 0 40px rgba(0, 0, 0, 0.2);
 }
 
 .mobile-menu.active {
     right: 0;
-    box-shadow: -10px 0 30px rgba(0, 0, 0, 0.2);
 }
 
 .mobile-menu-close {
-    align-self: flex-end;
+    align-self: flex-start;
     color: var(--color-white);
     border: none;
     font-size: 28px;
     cursor: pointer;
     background: none;
-    padding: 0;
+    padding: var(--spacing-md);
     transition: transform var(--transition-normal);
+    margin-left: calc(var(--spacing-md) * -1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
 }
 
 .mobile-menu-close:hover {
     transform: rotate(90deg);
 }
 
+.mobile-menu-close:focus-visible {
+    outline: 2px solid var(--color-accent-gold);
+    outline-offset: 2px;
+}
+
+/* Mobile menu links */
 .mobile-menu a {
     color: var(--color-white);
     text-decoration: none;
     font-size: 18px;
     font-weight: 500;
-    padding: var(--spacing-md) 0;
-    transition: color var(--transition-normal);
+    padding: var(--spacing-md) var(--spacing-lg);
+    transition: all var(--transition-fast);
     display: block;
+    border-radius: var(--radius-lg);
 }
 
 .mobile-menu a:hover {
-    color: var(--color-accent-orange);
+    background: rgba(255, 255, 255, 0.15);
+    padding-left: var(--spacing-2xl);
+}
+
+.mobile-menu a:focus-visible {
+    outline: 2px solid var(--color-accent-gold);
+    outline-offset: 2px;
 }
 
 .mobile-menu .btn {
-    align-self: flex-start;
-    margin-top: var(--spacing-md);
+    margin-top: var(--spacing-lg);
+    width: 100%;
 }
 
 /* Mobile menu overlay */
@@ -201,8 +284,8 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: 998;
+    background-color: rgba(15, 20, 25, 0.5);
+    z-index: 999;
     opacity: 0;
     visibility: hidden;
     transition: all var(--transition-normal);
@@ -213,7 +296,10 @@
     visibility: visible;
 }
 
-/* Responsive */
+/* ============================================================================
+   RESPONSIVE DESIGN
+   ================================================================ = */
+
 @media (max-width: 768px) {
     .hamburger {
         display: flex;
@@ -229,22 +315,59 @@
 
     .mobile-menu {
         max-width: 100%;
+        font-size: 16px;
+    }
+
+    .navbar-container {
+        padding: 0;
+    }
+
+    .logo-text {
+        font-size: 24px;
+    }
+
+    .navbar {
+        padding: 12px var(--spacing-lg);
     }
 }
 
-/* Skip to main content link */
+@media (max-width: 480px) {
+    .logo-text {
+        font-size: 20px;
+    }
+
+    .logo-subtext {
+        font-size: 9px;
+    }
+
+    .mobile-menu {
+        padding: var(--spacing-lg);
+    }
+
+    .mobile-menu a {
+        padding: var(--spacing-md);
+    }
+}
+
+/* ============================================================================
+   SKIP TO MAIN CONTENT - ACCESSIBILITY
+   ================================================================ = */
+
 .skip-to-main {
     position: absolute;
     left: -9999px;
-    z-index: var(--z-modal);
-    background-color: var(--color-primary-green);
+    z-index: var(--z-tooltip);
+    background-color: var(--color-primary-main);
     color: var(--color-white);
     padding: var(--spacing-md) var(--spacing-lg);
     text-decoration: none;
-    border-radius: var(--radius-sm);
+    border-radius: 0 0 var(--radius-lg) 0;
+    font-weight: 600;
+    transition: all var(--transition-fast);
 }
 
-.skip-to-main:focus {
-    left: var(--spacing-md);
-    top: var(--spacing-md);
+.skip-to-main:focus-visible {
+    left: 0;
+    top: 0;
+    outline: none;
 }

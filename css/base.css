@@ -1,4 +1,6 @@
-/* Reset & Normalization */
+/* ============================================================================
+   RESET & NORMALIZATION
+   ================================================================ = */
 * {
     margin: 0;
     padding: 0;
@@ -12,18 +14,21 @@ html {
 }
 
 body {
-    background-color: var(--color-bg-light);
-    color: var(--color-text-dark);
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
     font-family: var(--font-sans);
     font-size: var(--font-size-body);
     line-height: var(--line-height-normal);
     overflow-x: hidden;
+    transition: background-color var(--transition-normal);
 }
 
-/* Typography */
+/* ============================================================================
+   TYPOGRAPHY - PREMIUM HIERARCHY
+   ================================================================ = */
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-serif);
-    color: var(--color-text-dark);
+    color: var(--color-text-primary);
     font-weight: 700;
     line-height: var(--line-height-tight);
     letter-spacing: var(--letter-spacing-tight);
@@ -32,56 +37,203 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: var(--font-size-h1);
+    font-weight: 700;
     margin-bottom: var(--spacing-2xl);
+    letter-spacing: -0.02em;
 }
 
 h2 {
     font-size: var(--font-size-h2);
+    font-weight: 700;
     margin-bottom: var(--spacing-xl);
     letter-spacing: -0.015em;
 }
 
 h3 {
     font-size: var(--font-size-h3);
-    margin-bottom: var(--spacing-md);
+    font-weight: 700;
+    margin-bottom: var(--spacing-lg);
     letter-spacing: -0.01em;
 }
 
 h4 {
     font-size: var(--font-size-h4);
+    font-weight: 700;
     margin-bottom: var(--spacing-md);
 }
 
+h5 {
+    font-size: var(--font-size-h5);
+    font-weight: 600;
+    margin-bottom: var(--spacing-md);
+}
+
+h6 {
+    font-size: var(--font-size-body);
+    font-weight: 600;
+    margin-bottom: var(--spacing-md);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Emphasis */
+strong, b {
+    font-weight: 700;
+    color: var(--color-text-primary);
+}
+
+em, i {
+    font-style: italic;
+}
+
+/* Body text */
 p {
     margin-bottom: var(--spacing-lg);
-    line-height: var(--line-height-relaxed);
+    line-height: var(--line-height-loose);
     color: var(--color-text-secondary);
     font-weight: 400;
+    font-size: var(--font-size-body);
 }
 
+p.large {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+p.small {
+    font-size: var(--font-size-small);
+    line-height: var(--line-height-normal);
+}
+
+/* Links */
 a {
-    color: inherit;
+    color: var(--color-primary-main);
     text-decoration: none;
+    transition: color var(--transition-fast), opacity var(--transition-fast);
+    position: relative;
 }
 
+a:hover {
+    color: var(--color-accent-coral);
+}
+
+a:focus-visible {
+    outline: 2px solid var(--color-accent-coral);
+    outline-offset: 2px;
+}
+
+a.link {
+    font-weight: 600;
+    position: relative;
+}
+
+a.link::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--color-accent-coral), var(--color-accent-gold));
+    transition: width var(--transition-fast);
+}
+
+a.link:hover::after {
+    width: 100%;
+}
+
+/* Buttons */
 button {
     font-family: var(--font-sans);
     cursor: pointer;
     border: none;
     background: none;
+    transition: all var(--transition-fast);
+    font-weight: 600;
 }
 
+button:focus-visible {
+    outline: 2px solid var(--color-accent-coral);
+    outline-offset: 2px;
+}
+
+/* Images & Media */
 img {
     max-width: 100%;
     height: auto;
     display: block;
 }
 
-/* Utility Classes */
+img.lazy {
+    opacity: 0;
+    transition: opacity var(--transition-slow);
+}
+
+img.lazy.loaded {
+    opacity: 1;
+}
+
+/* Lists */
+ul, ol {
+    margin-bottom: var(--spacing-lg);
+    padding-left: var(--spacing-xl);
+}
+
+li {
+    margin-bottom: var(--spacing-md);
+    line-height: var(--line-height-loose);
+    color: var(--color-text-secondary);
+}
+
+/* Code */
+code {
+    font-family: 'Courier New', monospace;
+    background-color: var(--color-bg-secondary);
+    padding: 2px 6px;
+    border-radius: var(--radius-sm);
+    font-size: 0.9em;
+}
+
+pre {
+    background-color: var(--color-bg-dark);
+    color: white;
+    padding: var(--spacing-xl);
+    border-radius: var(--radius-lg);
+    overflow-x: auto;
+    margin-bottom: var(--spacing-lg);
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid var(--color-accent-coral);
+    padding: var(--spacing-lg) var(--spacing-xl);
+    background-color: var(--color-bg-secondary);
+    margin-bottom: var(--spacing-lg);
+    border-radius: var(--radius-lg);
+    font-style: italic;
+    color: var(--color-text-secondary);
+}
+
+/* ============================================================================
+   LAYOUT & STRUCTURE
+   ================================================================ = */
 .container {
     max-width: 1280px;
     margin: 0 auto;
     padding: 0 var(--spacing-2xl);
+    width: 100%;
+}
+
+.container--narrow {
+    max-width: 960px;
+}
+
+.container--wide {
+    max-width: 1400px;
+}
+
+.container--fluid {
+    max-width: 100%;
 }
 
 @media (max-width: 1024px) {
@@ -92,26 +244,102 @@ img {
 
 @media (max-width: 640px) {
     .container {
-        padding: 0 var(--spacing-md);
+        padding: 0 var(--spacing-lg);
     }
 }
 
+/* Sections */
 .section {
     padding: var(--spacing-5xl) var(--spacing-2xl);
     background-color: var(--color-white);
+    position: relative;
+    overflow: hidden;
+}
+
+.section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(30, 95, 78, 0.03) 0%, transparent 70%);
+    border-radius: 50%;
+    pointer-events: none;
 }
 
 .section:nth-child(even) {
-    background-color: var(--color-bg-light);
+    background-color: var(--color-bg-primary);
+}
+
+.section--dark {
+    background: var(--color-bg-dark);
+    color: var(--color-white);
+}
+
+.section--dark h1,
+.section--dark h2,
+.section--dark h3 {
+    color: var(--color-white);
+}
+
+.section--gradient {
+    background: var(--gradient-premium);
+    color: var(--color-white);
+}
+
+.section--gradient h1,
+.section--gradient h2,
+.section--gradient h3 {
+    color: var(--color-white);
+}
+
+.section--no-padding {
+    padding: 0;
 }
 
 @media (max-width: 768px) {
     .section {
-        padding: var(--spacing-4xl) var(--spacing-md);
+        padding: var(--spacing-4xl) var(--spacing-lg);
     }
 }
 
-/* Text utilities */
+@media (max-width: 480px) {
+    .section {
+        padding: var(--spacing-3xl) var(--spacing-md);
+    }
+}
+
+/* Section titles & text */
+.section-label {
+    font-size: var(--font-size-small);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-accent-coral);
+    margin-bottom: var(--spacing-md);
+    display: block;
+}
+
+.section-title {
+    font-size: var(--font-size-h2);
+    font-weight: 700;
+    margin-bottom: var(--spacing-xl);
+    line-height: var(--line-height-tight);
+}
+
+.section-subtitle {
+    font-size: var(--font-size-h4);
+    font-weight: 400;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-2xl);
+    line-height: var(--line-height-loose);
+}
+
+/* ============================================================================
+   UTILITY CLASSES
+   ================================================================ = */
+/* Text Alignment */
 .text-center {
     text-align: center;
 }
@@ -124,6 +352,24 @@ img {
     text-align: right;
 }
 
+.text-justify {
+    text-align: justify;
+}
+
+/* Text Transform */
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+/* Text Truncate */
 .truncate {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -137,9 +383,20 @@ img {
     overflow: hidden;
 }
 
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
 /* Display utilities */
 .hidden {
     display: none !important;
+}
+
+.invisible {
+    visibility: hidden !important;
 }
 
 .block {
@@ -158,10 +415,43 @@ img {
     display: grid;
 }
 
-/* Visibility utilities */
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+/* Spacing utilities */
+.mt-0 { margin-top: 0; }
+.mt-1 { margin-top: var(--spacing-xs); }
+.mt-2 { margin-top: var(--spacing-sm); }
+.mt-3 { margin-top: var(--spacing-md); }
+.mt-4 { margin-top: var(--spacing-lg); }
+.mt-5 { margin-top: var(--spacing-xl); }
+
+.mb-0 { margin-bottom: 0; }
+.mb-1 { margin-bottom: var(--spacing-xs); }
+.mb-2 { margin-bottom: var(--spacing-sm); }
+.mb-3 { margin-bottom: var(--spacing-md); }
+.mb-4 { margin-bottom: var(--spacing-lg); }
+.mb-5 { margin-bottom: var(--spacing-xl); }
+
+/* ============================================================================
+   RESPONSIVENESS
+   ================================================================ = */
 @media (max-width: 768px) {
     .hide-mobile {
         display: none !important;
+    }
+    
+    h1 {
+        margin-bottom: var(--spacing-xl);
+    }
+    
+    h2 {
+        margin-bottom: var(--spacing-lg);
     }
 }
 
@@ -171,7 +461,9 @@ img {
     }
 }
 
-/* Accessibility */
+/* ============================================================================
+   ACCESSIBILITY
+   ================================================================ = */
 .sr-only {
     position: absolute;
     width: 1px;
@@ -184,18 +476,25 @@ img {
     border-width: 0;
 }
 
-/* Focus styles for accessibility */
+/* Focus visible styles */
 :focus-visible {
-    outline: 2px solid var(--color-accent-orange);
+    outline: 2px solid var(--color-accent-coral);
     outline-offset: 2px;
 }
 
-button:focus-visible {
-    outline: 2px solid var(--color-accent-orange);
-    outline-offset: 2px;
+/* Skip to content link */
+.skip-to-main {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background: var(--color-primary-main);
+    color: white;
+    padding: var(--spacing-md) var(--spacing-lg);
+    text-decoration: none;
+    z-index: var(--z-tooltip);
+    border-radius: 0 0 var(--radius-lg) 0;
 }
 
-a:focus-visible {
-    outline: 2px solid var(--color-accent-orange);
-    outline-offset: 2px;
+.skip-to-main:focus {
+    top: 0;
 }

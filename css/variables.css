@@ -1,79 +1,152 @@
 :root {
-    /* Colors */
-    --color-primary-green: #0F3D2F;
-    --color-accent-orange: #FF7A00;
-    --color-bg-light: #FAFAF8;
-    --color-text-dark: #1A1A1A;
-    --color-text-secondary: #666666;
+    /* Primary Colors - Modern Brand Palette */
+    --color-primary-dark: #0F3D2F;
+    --color-primary-main: #1A5F4E;
+    --color-primary-light: #3D8B7E;
+    --color-accent-gold: #D4AF37;
+    --color-accent-coral: #FF6B5B;
+    --color-accent-blue: #4F90E8;
+    
+    /* Neutrals & Backgrounds */
+    --color-bg-primary: #FAFBFC;
+    --color-bg-secondary: #F5F7FA;
+    --color-bg-dark: #0F1419;
+    --color-text-primary: #0F1419;
+    --color-text-secondary: #5D6B7B;
+    --color-text-tertiary: #8B96AC;
     --color-text-light: #D4B5A0;
-    --color-text-warm: #E8D4C4;
     --color-white: #ffffff;
+    
+    /* Status Colors */
     --color-success: #10B981;
     --color-warning: #F59E0B;
     --color-error: #EF4444;
-    --color-border: rgba(15, 61, 47, 0.08);
-    --color-overlay-soft: rgba(15, 61, 47, 0.04);
+    --color-info: #3B82F6;
+    
+    /* Borders & Dividers */
+    --color-border-light: rgba(15, 61, 47, 0.08);
+    --color-border-medium: rgba(15, 61, 47, 0.15);
+    --color-overlay-soft: rgba(15, 61, 47, 0.03);
+    --color-overlay-medium: rgba(15, 61, 47, 0.08);
+    
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, #1A5F4E 0%, #3D8B7E 100%);
+    --gradient-premium: linear-gradient(135deg, #0F3D2F 0%, #1A5F4E 50%, #D4AF37 100%);
+    --gradient-hero: linear-gradient(135deg, #0F1419 0%, #1A5F4E 50%, #3D8B7E 100%);
+    --gradient-accent: linear-gradient(135deg, #FF6B5B 0%, #FF9A7B 100%);
+    --gradient-cta: linear-gradient(135deg, #1A5F4E 0%, #3D8B7E 100%);
 
-    /* Typography */
+    /* Typography - Modern & Premium */
     --font-serif: 'Playfair Display', serif;
     --font-sans: 'Inter', sans-serif;
-    --font-size-h1: 72px;
-    --font-size-h2: 54px;
-    --font-size-h3: 28px;
-    --font-size-h4: 20px;
+    --font-size-h1: 76px;
+    --font-size-h2: 56px;
+    --font-size-h3: 32px;
+    --font-size-h4: 24px;
+    --font-size-h5: 20px;
     --font-size-body: 16px;
     --font-size-small: 14px;
     --font-size-xs: 12px;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
     --line-height-tight: 1.15;
-    --line-height-normal: 1.65;
-    --line-height-relaxed: 1.85;
+    --line-height-normal: 1.5;
+    --line-height-relaxed: 1.65;
+    --line-height-loose: 1.85;
     --letter-spacing-tight: -0.02em;
     --letter-spacing-normal: 0;
     --letter-spacing-wide: 0.03em;
 
-    /* Spacing */
+    /* Spacing System - Premium spacing for breathing room */
     --spacing-xs: 4px;
     --spacing-sm: 8px;
+    --spacing-base: 12px;
     --spacing-md: 16px;
     --spacing-lg: 24px;
     --spacing-xl: 32px;
-    --spacing-2xl: 40px;
-    --spacing-3xl: 48px;
-    --spacing-4xl: 64px;
-    --spacing-5xl: 100px;
+    --spacing-2xl: 48px;
+    --spacing-3xl: 64px;
+    --spacing-4xl: 80px;
+    --spacing-5xl: 120px;
 
-    /* Border radius */
-    --radius-sm: 6px;
-    --radius-md: 12px;
-    --radius-lg: 16px;
+    /* Border radius - Modern rounded corners */
+    --radius-none: 0;
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 12px;
+    --radius-xl: 16px;
+    --radius-2xl: 24px;
     --radius-full: 9999px;
 
-    /* Shadows */
-    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.04);
-    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
-    --shadow-lg: 0 12px 24px rgba(0, 0, 0, 0.12);
-    --shadow-xl: 0 24px 48px rgba(0, 0, 0, 0.15);
+    /* Premium Shadows & Depth */
+    --shadow-none: none;
+    --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.12);
+    --shadow-xl: 0 20px 48px rgba(0, 0, 0, 0.15);
+    --shadow-2xl: 0 32px 64px rgba(0, 0, 0, 0.18);
+    --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.1);
     --shadow-lift: 0 20px 40px rgba(15, 61, 47, 0.12);
-    --shadow-glass: 0 8px 32px rgba(31, 41, 55, 0.1);
+    --shadow-inner: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+    
+    /* Glass Morphism */
+    --glass-background: rgba(255, 255, 255, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.2);
+    --glass-blur: backdrop-filter: blur(10px);
 
-    /* Transitions */
-    --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-    --transition-normal: 0.35s cubic-bezier(0.4, 0, 0.2, 1);
-    --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-    --transition-spring: 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+    /* Transitions & Animations */
+    --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-normal: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-slow: 500ms cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-spring: 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
 
-    /* Z-index */
+    /* Z-index Stack */
     --z-dropdown: 100;
     --z-sticky: 500;
     --z-fixed: 1000;
-    --z-modal: 2000;
-    --z-tooltip: 3000;
+    --z-offcanvas: 1040;
+    --z-modal-backdrop: 1050;
+    --z-modal: 1060;
+    --z-popover: 1070;
+    --z-tooltip: 1080;
 }
 
 @media (max-width: 768px) {
     :root {
         --font-size-h1: 48px;
         --font-size-h2: 40px;
-        --spacing-5xl: 60px;
+        --font-size-h3: 28px;
+        --font-size-h4: 20px;
+        --spacing-4xl: 64px;
+        --spacing-5xl: 80px;
     }
+}
+
+@media (max-width: 480px) {
+    :root {
+        --font-size-h1: 40px;
+        --font-size-h2: 32px;
+        --font-size-h3: 24px;
+        --spacing-4xl: 48px;
+        --spacing-5xl: 64px;
+    }
+}
+
+/* ============================================================================
+   COMPATIBILITY LAYER - BACKWARD COMPATIBILITY FOR OLD VARIABLE NAMES
+   ================================================================ = */
+
+/* Legacy variable mappings for existing HTML/CSS */
+:root {
+    /* Old color names mapped to new system */
+    --color-primary-green: var(--color-primary-main);
+    --color-accent-orange: var(--color-accent-coral);
+    --color-bg-light: var(--color-bg-primary);
+    --color-text-dark: var(--color-text-primary);
+    --color-border: var(--color-border-light);
+    --color-overlay-soft: var(--color-overlay-soft);
 }
