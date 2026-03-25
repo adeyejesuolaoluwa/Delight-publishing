@@ -95,6 +95,18 @@ footer::after {
     margin-bottom: var(--spacing-lg);
 }
 
+.footer-logo-img {
+    height: 60px;
+    width: auto;
+    object-fit: contain;
+    margin-bottom: var(--spacing-lg);
+    transition: transform var(--transition-fast);
+}
+
+.footer-logo-img:hover {
+    transform: scale(1.05);
+}
+
 .footer-logo-text {
     font-family: var(--font-serif);
     font-size: 28px;
