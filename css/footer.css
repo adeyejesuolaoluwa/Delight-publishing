@@ -3,7 +3,7 @@
    ================================================================ = */
 
 footer {
-    background: var(--gradient-premium);
+    background: linear-gradient(135deg, #0F3D2F 0%, #1A5F4E 50%, #2A7A6E 100%);
     color: var(--color-white);
     padding: var(--spacing-5xl) var(--spacing-2xl) var(--spacing-2xl);
     position: relative;
@@ -79,7 +79,7 @@ footer::after {
 }
 
 .footer-section h4 {
-    color: var(--color-white);
+    color: var(--color-accent-gold);
     font-size: var(--font-size-h5);
     margin-bottom: var(--spacing-lg);
     font-weight: 700;
