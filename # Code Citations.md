@@ -10,22 +10,22 @@ https://github.com/musakui/npodice/blob/1df4ca40cb85dc446c7188cadc1841bdeeda9884
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -135,22 +135,22 @@ https://github.com/musakui/npodice/blob/1df4ca40cb85dc446c7188cadc1841bdeeda9884
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -260,22 +260,22 @@ https://github.com/musakui/npodice/blob/1df4ca40cb85dc446c7188cadc1841bdeeda9884
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -385,22 +385,22 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -658,7 +658,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -796,7 +796,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -853,22 +853,22 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -1126,7 +1126,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -1264,7 +1264,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -1321,22 +1321,22 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -1594,7 +1594,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -1732,7 +1732,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -1789,22 +1789,22 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -2062,7 +2062,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -2200,7 +2200,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -2257,22 +2257,22 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -2530,7 +2530,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -2668,7 +2668,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -2725,22 +2725,22 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -2998,7 +2998,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -3136,7 +3136,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -3193,22 +3193,22 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -3466,7 +3466,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -3604,7 +3604,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -3661,22 +3661,22 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -3934,7 +3934,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -4072,7 +4072,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -4129,22 +4129,22 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -4402,7 +4402,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -4540,7 +4540,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -4597,22 +4597,22 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -4870,7 +4870,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -5008,7 +5008,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -5065,22 +5065,22 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -5338,7 +5338,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -5476,7 +5476,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -5533,22 +5533,22 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -5806,7 +5806,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -5944,7 +5944,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -6001,22 +6001,22 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -6274,7 +6274,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -6412,7 +6412,7 @@ https://github.com/konradrenner/websitetfleck/blob/56608967bebd1f964afcddd2756fd
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -6469,22 +6469,22 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -6742,7 +6742,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -6880,7 +6880,7 @@ https://github.com/acasaprogramming/The-Agency-Portfolio/blob/cc064fd3de64fb5fc2
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 
@@ -6937,22 +6937,22 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delight Publishing House | Transform Your Manuscript Into a Bestseller</title>
+    <title>Delight Pen Publishing | Transform Your Manuscript Into a Bestseller</title>
     <meta name="description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing for Amazon KDP, IngramSpark, and wide distribution. Trusted by 1,200+ authors.">
     <meta name="keywords" content="book publishing, self-publishing, author editing, kindle publishing, indie publishing, manuscript editing">
-    <meta name="author" content="Delight Publishing House">
+    <meta name="author" content="Delight Pen Publishing">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://delightpublishing.com">
-    <meta property="og:title" content="Delight Publishing House | Transform Your Manuscript Into a Bestseller">
+    <meta property="og:title" content="Delight Pen Publishing | Transform Your Manuscript Into a Bestseller">
     <meta property="og:description" content="Award-winning publishing solutions for authors. Professional editing, formatting, and marketing.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://delightpublishing.com">
-    <meta property="twitter:title" content="Delight Publishing House">
+    <meta property="twitter:title" content="Delight Pen Publishing">
     <meta property="twitter:description" content="Transform Your Manuscript Into a Bestseller">
     <meta property="twitter:image" content="https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=1200&h=630&fit=crop">
     
@@ -7210,7 +7210,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
             <div class="container">
                 <h2 class="section-title animate-fade-in-up">Why Authors Choose Delight</h2>
                 <div class="about-content animate-fade-in-up" style="animation-delay: 0.1s">
-                    <p class="about-intro">Since 2019, Delight Publishing House has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
+                    <p class="about-intro">Since 2019, Delight Pen Publishing has been the trusted partner for authors who refuse to compromise on quality. We combine editorial excellence with strategic marketing to create books that sell—and stories that matter.</p>
                 </div>
 
                 <div class="pillars">
@@ -7348,7 +7348,7 @@ https://github.com/TuanDinh140194/Lys-ecommerce/blob/8f3e1d858f5cf44ce97c36352c9
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2025 Delight Publishing House. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
+            <p>&copy; 2025 Delight Pen Publishing. All rights reserved. | Made with precision in Lagos 🇳🇬</p>
         </div>
     </footer>
 

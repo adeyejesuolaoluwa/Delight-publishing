@@ -1,6 +1,6 @@
-# Delight Publishing House - Website
+# DelightPen Publishing - Website
 
-A premium, modular, production-ready website for Delight Publishing House. Built with vanilla JavaScript, semantic HTML5, and organized CSS architecture.
+A premium, modular, production-ready website for DelightPen Publishing. Built with vanilla JavaScript, semantic HTML5, and organized CSS architecture.
 
 ## 📁 Project Structure
 
@@ -435,7 +435,7 @@ logEvent('button_click', { button_name: 'Start Journey' });
 
 ## 📄 License
 
-Proprietary - All rights reserved by Delight Publishing House
+Proprietary - All rights reserved by DelightPen Publishing
 
 ---
 

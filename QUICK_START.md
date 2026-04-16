@@ -1,6 +1,6 @@
 # Quick Start Guide - 5 Minutes to Running
 
-Get the Delight Publishing House website running locally in under 5 minutes.
+Get the DelightPen Publishing website running locally in under 5 minutes.
 
 ---
 

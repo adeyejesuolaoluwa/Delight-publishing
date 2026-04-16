@@ -1,6 +1,6 @@
-# Architecture Overview - Delight Publishing House Website
+# Architecture Overview - DelightPen Publishing Website
 
-Complete technical architecture documentation for the modular Delight Publishing House website.
+Complete technical architecture documentation for the modular DelightPen Publishing website.
 
 ---
 

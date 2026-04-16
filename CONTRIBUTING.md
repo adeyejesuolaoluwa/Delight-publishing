@@ -1,10 +1,10 @@
-# Contributing Guide - Delight Publishing House
+# Contributing Guide - Delight Pen Publishing
 
-Welcome to the Delight Publishing House website development team! This guide outlines standards and practices for contributing to this project.
+Welcome to the Delight Pen Publishing website development team! This guide outlines standards and practices for contributing to this project.
 
 ## 🎯 Our Mission
 
-Build a world-class digital presence for Delight Publishing House that reflects premium publishing excellence while maintaining code quality, performance, and accessibility.
+Build a world-class digital presence for DelightPen Publishing that reflects premium publishing excellence while maintaining code quality, performance, and accessibility.
 
 ---
 

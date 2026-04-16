@@ -1,6 +1,6 @@
 # GitHub & Vercel Deployment Guide
 
-This guide will walk you through pushing your Delight Publishing House website to GitHub and deploying to Vercel.
+This guide will walk you through pushing your DelightPen Publishing website to GitHub and deploying to Vercel.
 
 ## ✅ Prerequisites
 
@@ -43,7 +43,7 @@ If your project doesn't have a `.git` folder:
 cd "c:\Users\USER 2\Delight publishing"
 git init
 git add .
-git commit -m "Initial commit: Premium Delight Publishing House website with luxury UI/UX design"
+git commit -m "Initial commit: Premium DelightPen Publishing website with luxury UI/UX design"
 ```
 
 ---

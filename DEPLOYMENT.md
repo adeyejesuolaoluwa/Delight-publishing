@@ -1,6 +1,6 @@
-# Deployment Guide - Delight Publishing House
+# Deployment Guide - DelightPen Publishing
 
-Complete guide for deploying the Delight Publishing House website to production environments.
+Complete guide for deploying the DelightPen Publishing website to production environments.
 
 ## 📋 Pre-Deployment Checklist
 

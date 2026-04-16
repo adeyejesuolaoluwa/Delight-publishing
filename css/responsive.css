@@ -829,11 +829,6 @@
 
 /* Touch device optimizations */
 @media (hover: none) and (pointer: coarse) {
-    .btn {
-        min-height: 44px;
-        min-width: 44px;
-    }
-
     .carousel-btn {
         min-width: 48px;
         min-height: 48px;
@@ -842,7 +837,7 @@
     a.link {
         padding: 8px 0;
     }
-}
+
     .btn {
         min-height: 48px;
         min-width: 44px;

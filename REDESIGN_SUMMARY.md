@@ -1,7 +1,7 @@
-# Delight Publishing Website - Premium Redesign (2026)
+# DelightPen Publishing Website - Premium Redesign (2026)
 
 ## Overview
-The Delight Publishing website has been completely redesigned and enhanced to look like a premium, high-converting SaaS/service website. Every aspect from colors, typography, layout, animations, and responsiveness has been thoughtfully upgraded to create a professional, modern brand experience.
+The DelightPen Publishing website has been completely redesigned and enhanced to look like a premium, high-converting SaaS/service website. Every aspect from colors, typography, layout, animations, and responsiveness has been thoughtfully upgraded to create a professional, modern brand experience.
 
 ---
 

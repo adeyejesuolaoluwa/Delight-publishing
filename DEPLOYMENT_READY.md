@@ -35,7 +35,7 @@ Download from: https://git-scm.com/downloads
 cd "c:\Users\USER 2\Delight publishing"
 git init
 git add .
-git commit -m "Production ready: Premium Delight Publishing House website"
+git commit -m "Production ready: Premium DelightPen Publishing website"
 git remote add origin https://github.com/adeyejesuolaoluwa/Delight-publishing.git
 git branch -M main
 git push -u origin main
